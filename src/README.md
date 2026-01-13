@@ -3,7 +3,7 @@
 This folder contains all application source code.
 
 ## Structure
-
+```
 src/
 ├── app.py              # Main application file
 ├── models.py           # Database models
@@ -14,6 +14,7 @@ src/
 │   └── img/
 └── templates/         # HTML templates
 └── base.html
+```
 
 ## Getting Started
 

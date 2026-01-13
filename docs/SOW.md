@@ -1,8 +1,7 @@
 # Statement of Work (SOW)
 
-**Project Name:** [To be determined with GH partner]  
+**Project Name:** [To be determined with partner]  
 **Developer:** [Your name]  
-**GH Partner:** [Partner name]  
 **Date:** [Date]  
 **Status:** Draft / Final
 
@@ -130,7 +129,6 @@
 ## 9. Acceptance
 
 **Developer:** [Signature / Date]  
-**GH Partner:** [Signature / Date]  
 **Instructor:** [Signature / Date]
 
 ---

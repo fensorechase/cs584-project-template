@@ -50,7 +50,6 @@
 ## Collaborators
 
 - **Developer:** [Your name] (@yourusername)
-- **GH Partner:** [Partner name] (once assigned)
 - **Instructor:** Chase Fensore (@fensorechase)
 
 ---
